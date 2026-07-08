@@ -1,1 +1,1 @@
-# CodeAlpha_ProjectName
+# StockTradingPlatform
